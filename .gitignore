@@ -1,0 +1,11 @@
+DLLs/
+Doc/
+include/
+Lib/
+libs/
+tcl
+Tools/
+*.dll
+*.exe
+*.txt
+*.png
